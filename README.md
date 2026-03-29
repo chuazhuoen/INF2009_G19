@@ -11,21 +11,21 @@
  
 ## Table of Contents
  
-- [Project Overview](#-project-overview)
-- [Problem Statement](#-problem-statement)
-- [Objectives](#-objectives)
-- [System Architecture](#-system-architecture)
-- [Hardware & Justification](#-hardware--justification)
-- [Software & Tools](#-software--tools)
-- [Edge Analytics — ML Model](#-edge-analytics--ml-model)
-- [Data Flow & Communication](#-data-flow--communication)
-- [Cloud Infrastructure](#-cloud-infrastructure)
-- [Dashboard](#-dashboard)
-- [System Resilience & Graceful Degradation](#-system-resilience--graceful-degradation)
-- [Experiments & Results](#-experiments--results)
-- [Latency Analysis](#-latency-analysis)
-- [Scalability](#-scalability)
-- [Future Extensions](#-future-extensions)
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [System Architecture](#system-architecture)
+- [Hardware & Justification](#hardware--justification)
+- [Software & Tools](#software--tools)
+- [Edge Analytics — ML Model](#edge-analytics--ml-model)
+- [Data Flow & Communication](#data-flow--communication)
+- [Cloud Infrastructure](#cloud-infrastructure)
+- [Dashboard](#dashboard)
+- [System Resilience & Graceful Degradation](#system-resilience--graceful-degradation)
+- [Experiments & Results](#experiments--results)
+- [Latency Analysis](#latency-analysis)
+- [Scalability](#scalability)
+- [Future Extensions](#future-extensions)
 
 ## Project Overview
  
